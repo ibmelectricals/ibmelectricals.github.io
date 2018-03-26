@@ -97,7 +97,7 @@ h6,
   font-family: 'Lora', serif;
 }
 .bg-primary {
-  background-color: #f3c649 !important;
+  background-color: #fac51c !important;
 }
 .bg-success {
   background-color: #194de9 !important;
@@ -112,8 +112,8 @@ h6,
   background-color: #7c706b !important;
 }
 .btn-primary {
-  background-color: #f3c649;
-  border-color: #f3c649;
+  background-color: #fac51c;
+  border-color: #fac51c;
   color: #ffffff;
 }
 .btn-primary:hover,
@@ -122,14 +122,14 @@ h6,
 .btn-primary:active,
 .btn-primary.active {
   color: #ffffff;
-  background-color: #e1a90f;
-  border-color: #e1a90f;
+  background-color: #c59704;
+  border-color: #c59704;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #e1a90f !important;
-  border-color: #e1a90f !important;
+  background-color: #c59704 !important;
+  border-color: #c59704 !important;
 }
 .btn-secondary {
   background-color: #0b33ac;
@@ -233,8 +233,8 @@ h6,
 }
 .btn-primary-outline {
   background: none;
-  border-color: #c9970d;
-  color: #c9970d;
+  border-color: #ac8404;
+  color: #ac8404;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
@@ -242,14 +242,14 @@ h6,
 .btn-primary-outline:active,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #f3c649;
-  border-color: #f3c649;
+  background-color: #fac51c;
+  border-color: #fac51c;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #f3c649 !important;
-  border-color: #f3c649 !important;
+  background-color: #fac51c !important;
+  border-color: #fac51c !important;
 }
 .btn-secondary-outline {
   background: none;
@@ -352,7 +352,7 @@ h6,
   border-color: #7c706b !important;
 }
 .text-primary {
-  color: #f3c649 !important;
+  color: #fac51c !important;
 }
 .text-success {
   color: #194de9 !important;
@@ -379,36 +379,36 @@ h6,
   background-color: #7c706b;
 }
 .btn-social {
-  border-color: #f3c649;
+  border-color: #fac51c;
 }
 .btn-social:hover {
-  background: #f3c649;
+  background: #fac51c;
 }
 .mbr-company .list-group-item.active .list-group-text {
-  color: #f3c649;
+  color: #fac51c;
 }
 .mbr-footer p a,
 .mbr-footer ul a {
-  color: #f3c649;
+  color: #fac51c;
 }
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #f3c649;
+  background: #fac51c;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #f3c649;
+  color: #fac51c;
 }
 .lead a,
 .lead a:hover {
-  color: #f3c649;
+  color: #fac51c;
 }
 .lead blockquote {
-  border-color: #f3c649;
+  border-color: #fac51c;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #fef8e4;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -428,7 +428,7 @@ h6,
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
-  color: #f3c649;
+  color: #fac51c;
 }
 #msg-box5-1 H3 {
   text-align: left;
@@ -466,17 +466,17 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-4 .link {
-  font-size: 0.75rem;
+  font-size: 1.05rem;
 }
 #menu-4 .dropdown-item,
 #menu-4 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.137rem;
 }
 #menu-4 .link:hover,
 #menu-4 .dropdown-item:hover,
 #menu-4 .link:focus,
 #menu-4 .dropdown-item:focus {
-  color: #f3c649;
+  color: #fac51c;
 }
 #menu-4 .link[aria-expanded="true"],
 #menu-4 .dropdown-menu {
@@ -503,11 +503,11 @@ h6,
 }
 #menu-4 .bg-color.transparent.opened .link:hover,
 #menu-4 .bg-color.transparent.opened .link:focus {
-  color: #f3c649;
+  color: #fac51c;
 }
 #menu-4 .link[aria-expanded="true"],
 #menu-4 .dropdown-item[aria-expanded="true"] {
-  color: #f3c649!important;
+  color: #fac51c!important;
 }
 #menu-4 .btn {
   font-family: 'Droid Sans', sans-serif;
@@ -616,17 +616,17 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-1s .link {
-  font-size: 0.75rem;
+  font-size: 1.05rem;
 }
 #menu-1s .dropdown-item,
 #menu-1s .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.137rem;
 }
 #menu-1s .link:hover,
 #menu-1s .dropdown-item:hover,
 #menu-1s .link:focus,
 #menu-1s .dropdown-item:focus {
-  color: #f3c649;
+  color: #fac51c;
 }
 #menu-1s .link[aria-expanded="true"],
 #menu-1s .dropdown-menu {
@@ -653,11 +653,11 @@ h6,
 }
 #menu-1s .bg-color.transparent.opened .link:hover,
 #menu-1s .bg-color.transparent.opened .link:focus {
-  color: #f3c649;
+  color: #fac51c;
 }
 #menu-1s .link[aria-expanded="true"],
 #menu-1s .dropdown-item[aria-expanded="true"] {
-  color: #f3c649!important;
+  color: #fac51c!important;
 }
 #menu-1s .btn {
   font-family: 'Droid Sans', sans-serif;
@@ -712,17 +712,17 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-1x .link {
-  font-size: 0.75rem;
+  font-size: 1.05rem;
 }
 #menu-1x .dropdown-item,
 #menu-1x .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.137rem;
 }
 #menu-1x .link:hover,
 #menu-1x .dropdown-item:hover,
 #menu-1x .link:focus,
 #menu-1x .dropdown-item:focus {
-  color: #f3c649;
+  color: #fac51c;
 }
 #menu-1x .link[aria-expanded="true"],
 #menu-1x .dropdown-menu {
@@ -749,11 +749,11 @@ h6,
 }
 #menu-1x .bg-color.transparent.opened .link:hover,
 #menu-1x .bg-color.transparent.opened .link:focus {
-  color: #f3c649;
+  color: #fac51c;
 }
 #menu-1x .link[aria-expanded="true"],
 #menu-1x .dropdown-item[aria-expanded="true"] {
-  color: #f3c649!important;
+  color: #fac51c!important;
 }
 #menu-1x .btn {
   font-family: 'Droid Sans', sans-serif;
@@ -799,17 +799,17 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-2w .link {
-  font-size: 0.75rem;
+  font-size: 1.05rem;
 }
 #menu-2w .dropdown-item,
 #menu-2w .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.137rem;
 }
 #menu-2w .link:hover,
 #menu-2w .dropdown-item:hover,
 #menu-2w .link:focus,
 #menu-2w .dropdown-item:focus {
-  color: #f3c649;
+  color: #fac51c;
 }
 #menu-2w .link[aria-expanded="true"],
 #menu-2w .dropdown-menu {
@@ -836,11 +836,11 @@ h6,
 }
 #menu-2w .bg-color.transparent.opened .link:hover,
 #menu-2w .bg-color.transparent.opened .link:focus {
-  color: #f3c649;
+  color: #fac51c;
 }
 #menu-2w .link[aria-expanded="true"],
 #menu-2w .dropdown-item[aria-expanded="true"] {
-  color: #f3c649!important;
+  color: #fac51c!important;
 }
 #menu-2w .btn {
   font-family: 'Droid Sans', sans-serif;
@@ -903,17 +903,17 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-4 .link {
-  font-size: 0.75rem;
+  font-size: 1.05rem;
 }
 #menu-4 .dropdown-item,
 #menu-4 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.137rem;
 }
 #menu-4 .link:hover,
 #menu-4 .dropdown-item:hover,
 #menu-4 .link:focus,
 #menu-4 .dropdown-item:focus {
-  color: #f3c649;
+  color: #fac51c;
 }
 #menu-4 .link[aria-expanded="true"],
 #menu-4 .dropdown-menu {
@@ -940,11 +940,11 @@ h6,
 }
 #menu-4 .bg-color.transparent.opened .link:hover,
 #menu-4 .bg-color.transparent.opened .link:focus {
-  color: #f3c649;
+  color: #fac51c;
 }
 #menu-4 .link[aria-expanded="true"],
 #menu-4 .dropdown-item[aria-expanded="true"] {
-  color: #f3c649!important;
+  color: #fac51c!important;
 }
 #menu-4 .btn {
   font-family: 'Droid Sans', sans-serif;
@@ -995,17 +995,17 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-2b .link {
-  font-size: 0.75rem;
+  font-size: 1.05rem;
 }
 #menu-2b .dropdown-item,
 #menu-2b .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.137rem;
 }
 #menu-2b .link:hover,
 #menu-2b .dropdown-item:hover,
 #menu-2b .link:focus,
 #menu-2b .dropdown-item:focus {
-  color: #f3c649;
+  color: #fac51c;
 }
 #menu-2b .link[aria-expanded="true"],
 #menu-2b .dropdown-menu {
@@ -1032,11 +1032,11 @@ h6,
 }
 #menu-2b .bg-color.transparent.opened .link:hover,
 #menu-2b .bg-color.transparent.opened .link:focus {
-  color: #f3c649;
+  color: #fac51c;
 }
 #menu-2b .link[aria-expanded="true"],
 #menu-2b .dropdown-item[aria-expanded="true"] {
-  color: #f3c649!important;
+  color: #fac51c!important;
 }
 #menu-2b .btn {
   font-family: 'Droid Sans', sans-serif;
@@ -1078,17 +1078,17 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-3y .link {
-  font-size: 0.75rem;
+  font-size: 1.05rem;
 }
 #menu-3y .dropdown-item,
 #menu-3y .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.137rem;
 }
 #menu-3y .link:hover,
 #menu-3y .dropdown-item:hover,
 #menu-3y .link:focus,
 #menu-3y .dropdown-item:focus {
-  color: #f3c649;
+  color: #fac51c;
 }
 #menu-3y .link[aria-expanded="true"],
 #menu-3y .dropdown-menu {
@@ -1115,11 +1115,11 @@ h6,
 }
 #menu-3y .bg-color.transparent.opened .link:hover,
 #menu-3y .bg-color.transparent.opened .link:focus {
-  color: #f3c649;
+  color: #fac51c;
 }
 #menu-3y .link[aria-expanded="true"],
 #menu-3y .dropdown-item[aria-expanded="true"] {
-  color: #f3c649!important;
+  color: #fac51c!important;
 }
 #menu-3y .btn {
   font-family: 'Droid Sans', sans-serif;
@@ -1161,17 +1161,17 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-3u .link {
-  font-size: 0.75rem;
+  font-size: 1.05rem;
 }
 #menu-3u .dropdown-item,
 #menu-3u .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.137rem;
 }
 #menu-3u .link:hover,
 #menu-3u .dropdown-item:hover,
 #menu-3u .link:focus,
 #menu-3u .dropdown-item:focus {
-  color: #f3c649;
+  color: #fac51c;
 }
 #menu-3u .link[aria-expanded="true"],
 #menu-3u .dropdown-menu {
@@ -1198,11 +1198,11 @@ h6,
 }
 #menu-3u .bg-color.transparent.opened .link:hover,
 #menu-3u .bg-color.transparent.opened .link:focus {
-  color: #f3c649;
+  color: #fac51c;
 }
 #menu-3u .link[aria-expanded="true"],
 #menu-3u .dropdown-item[aria-expanded="true"] {
-  color: #f3c649!important;
+  color: #fac51c!important;
 }
 #menu-3u .btn {
   font-family: 'Droid Sans', sans-serif;
@@ -1248,17 +1248,17 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-48 .link {
-  font-size: 0.75rem;
+  font-size: 1.05rem;
 }
 #menu-48 .dropdown-item,
 #menu-48 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.137rem;
 }
 #menu-48 .link:hover,
 #menu-48 .dropdown-item:hover,
 #menu-48 .link:focus,
 #menu-48 .dropdown-item:focus {
-  color: #f3c649;
+  color: #fac51c;
 }
 #menu-48 .link[aria-expanded="true"],
 #menu-48 .dropdown-menu {
@@ -1285,11 +1285,11 @@ h6,
 }
 #menu-48 .bg-color.transparent.opened .link:hover,
 #menu-48 .bg-color.transparent.opened .link:focus {
-  color: #f3c649;
+  color: #fac51c;
 }
 #menu-48 .link[aria-expanded="true"],
 #menu-48 .dropdown-item[aria-expanded="true"] {
-  color: #f3c649!important;
+  color: #fac51c!important;
 }
 #menu-48 .btn {
   font-family: 'Droid Sans', sans-serif;
@@ -1349,17 +1349,17 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-33 .link {
-  font-size: 0.75rem;
+  font-size: 1.05rem;
 }
 #menu-33 .dropdown-item,
 #menu-33 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.137rem;
 }
 #menu-33 .link:hover,
 #menu-33 .dropdown-item:hover,
 #menu-33 .link:focus,
 #menu-33 .dropdown-item:focus {
-  color: #f3c649;
+  color: #fac51c;
 }
 #menu-33 .link[aria-expanded="true"],
 #menu-33 .dropdown-menu {
@@ -1386,11 +1386,11 @@ h6,
 }
 #menu-33 .bg-color.transparent.opened .link:hover,
 #menu-33 .bg-color.transparent.opened .link:focus {
-  color: #f3c649;
+  color: #fac51c;
 }
 #menu-33 .link[aria-expanded="true"],
 #menu-33 .dropdown-item[aria-expanded="true"] {
-  color: #f3c649!important;
+  color: #fac51c!important;
 }
 #menu-33 .btn {
   font-family: 'Droid Sans', sans-serif;
@@ -1450,17 +1450,17 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-35 .link {
-  font-size: 0.75rem;
+  font-size: 1.05rem;
 }
 #menu-35 .dropdown-item,
 #menu-35 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.137rem;
 }
 #menu-35 .link:hover,
 #menu-35 .dropdown-item:hover,
 #menu-35 .link:focus,
 #menu-35 .dropdown-item:focus {
-  color: #f3c649;
+  color: #fac51c;
 }
 #menu-35 .link[aria-expanded="true"],
 #menu-35 .dropdown-menu {
@@ -1487,11 +1487,11 @@ h6,
 }
 #menu-35 .bg-color.transparent.opened .link:hover,
 #menu-35 .bg-color.transparent.opened .link:focus {
-  color: #f3c649;
+  color: #fac51c;
 }
 #menu-35 .link[aria-expanded="true"],
 #menu-35 .dropdown-item[aria-expanded="true"] {
-  color: #f3c649!important;
+  color: #fac51c!important;
 }
 #menu-35 .btn {
   font-family: 'Droid Sans', sans-serif;
