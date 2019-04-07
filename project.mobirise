@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "inverters.html",
+    "currentPage": "index.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 189,
     "versionPublish": "3.12.1",
@@ -205,7 +205,7 @@
           "_name": "menu",
           "_anchor": "menu-4",
           "_params": {
-            "bgColor": "#f3c649",
+            "bgColor": "#faaf40",
             "fontSize": "1.05",
             "fontName": {
               "name": "Oswald",
@@ -4339,7 +4339,7 @@
           "_name": "menu",
           "_anchor": "menu-35",
           "_params": {
-            "bgColor": "#f3c649",
+            "bgColor": "#faaf40",
             "fontSize": "1.05",
             "fontName": {
               "name": "Oswald",
