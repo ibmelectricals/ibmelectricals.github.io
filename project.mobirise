@@ -172,13 +172,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#f99a0e"
+              "background": "#f0b719"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#faa931!important"
+              "background": "#f2c23b!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#faaf40"
+              "background": "#f3c649"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -205,7 +205,7 @@
           "_name": "menu",
           "_anchor": "menu-4",
           "_params": {
-            "bgColor": "#faaf40",
+            "bgColor": "#f3c649",
             "fontSize": "1.05",
             "fontName": {
               "name": "Oswald",
@@ -4339,7 +4339,7 @@
           "_name": "menu",
           "_anchor": "menu-35",
           "_params": {
-            "bgColor": "#faaf40",
+            "bgColor": "#f3c649",
             "fontSize": "1.05",
             "fontName": {
               "name": "Oswald",
